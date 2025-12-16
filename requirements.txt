@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tqdm
+networkx
+scipy
+cupy-cuda12x; platform_system != "Darwin"  # optional, pick the right build for your CUDA
+cubewalkers>=0.2

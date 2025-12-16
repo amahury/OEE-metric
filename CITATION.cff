@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Characterizing Open-Ended Evolution Through Undecidability Mechanisms in Random Boolean Networks"
+authors:
+  - family-names: "López-Díaz"
+    given-names: "Amahury J."
+    affiliation: "Binghamton University"
+  - family-names: "Rivera Torres"
+    given-names: "Pedro Juan"
+    affiliation: "University of Salamanca"
+  - family-names: "Febres"
+    given-names: "Gerardo"
+    affiliation: "Universidad Simón Bolívar"
+  - family-names: "Gershenson"
+    given-names: "Carlos"
+    affiliation: "UNAM"
+date-released: "2025-10-29"
+version: "1.0.0"
+type: software
+repository-code: "https://github.com/<your-username>/<your-repo>"

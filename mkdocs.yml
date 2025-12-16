@@ -1,0 +1,19 @@
+site_name: OEE-RBN Documentation
+repo_url: https://github.com/<your-username>/<your-repo>
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.code.copy
+nav:
+  - Overview: index.md
+  - Installation: installation.md
+  - Quickstart: quickstart.md
+  - Reproducing the Paper: reproducing.md
+  - Data & Results: data.md
+  - Notebooks: notebooks.md
+  - Parameters: parameters.md
+  - API Reference:
+    - axiomatic: api/axiomatic.md
+    - single: api/single.md
+    - parallel_new: api/parallel_new.md

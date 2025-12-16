@@ -1,0 +1,16 @@
+name: oee-rbn
+channels:
+  - conda-forge
+  - nvidia
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - tqdm
+  - networkx
+  - scipy
+  - pip
+  - pip:
+    - cubewalkers>=0.2
+    # optional GPU wheels; choose one that matches your CUDA if needed
+    # - cupy-cuda12x
