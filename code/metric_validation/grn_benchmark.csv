@@ -1,0 +1,16 @@
+model_path,seed,N,T,omega,omega_canon
+bcell_diff.bnet,0,22,200000,4.9999e-06,4.9999e-06
+bcell_diff.bnet,1,22,200000,4.999825e-06,4.999825e-06
+bcell_diff.bnet,2,22,200000,4.99985e-06,4.99985e-06
+bcell_diff.bnet,3,22,200000,4.9999e-06,4.9999e-06
+bcell_diff.bnet,4,22,200000,4.9999e-06,4.9999e-06
+cardi_devel.bnet,0,15,200000,4.9999e-06,4.9999e-06
+cardi_devel.bnet,1,15,200000,4.9999e-06,4.9999e-06
+cardi_devel.bnet,2,15,200000,4.999875e-06,4.999875e-06
+cardi_devel.bnet,3,15,200000,4.99985e-06,4.99985e-06
+cardi_devel.bnet,4,15,200000,4.9999e-06,4.9999e-06
+tcell_diff.bnet,0,23,200000,4.99975e-06,4.99975e-06
+tcell_diff.bnet,1,23,200000,4.99985e-06,4.99985e-06
+tcell_diff.bnet,2,23,200000,4.999875e-06,4.999875e-06
+tcell_diff.bnet,3,23,200000,4.9999e-06,4.9999e-06
+tcell_diff.bnet,4,23,200000,4.999725e-06,4.999725e-06
